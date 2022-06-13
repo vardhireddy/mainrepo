@@ -1,0 +1,3 @@
+[submodule "TodoManager"]
+	path = TodoManager
+	url = https://github.com/vardhireddy/TodoManager.git
